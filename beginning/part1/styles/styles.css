@@ -18,7 +18,7 @@ p:first-of-type::first-letter{
 }
 
 /* 5th Instruction */
-.solution{
+.solution::first-line{
     color:#CC1C0D;
     font-weight: bold;
 }
