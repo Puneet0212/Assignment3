@@ -1,0 +1,40 @@
+/* 1st,2nd,3rd,4th Instructions */
+
+body{
+    width:960px;
+    margin:0px 0px 0px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 2em;
+}
+
+/* 5th Instruction */
+ul{
+    list-style-type: none;
+    padding:0px;
+}
+
+p~ul{
+    list-style-type: disc;
+    padding-left:40px;
+}
+
+/* 6th Instruction */
+h2{
+    border: 1px #929CA4 solid;
+    background-color: #DFE3E6;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+/* 7th & 8th Instructions */
+a, h2{
+    color: #CC1C0D;
+}
+
+/* 9th Instruction */
+img{
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+}

@@ -1,0 +1,82 @@
+/* 2nd Instruction */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 2em;
+    background-color: #EDEDED;
+}
+
+/* 3rd Instruction */
+h3{
+    color: red;
+    border-bottom: 1px solid #929ca4;
+}
+
+/* 4th Instruction */
+p:first-of-type::first-letter{
+    font-size: 30px;
+}
+
+/* 5th Instruction */
+.solution{
+    color:#CC1C0D;
+    font-weight: bold;
+}
+
+/* 6th Instruction */
+#testimonial1, #testimonial2{
+    font-style: italic;
+    margin: 50px;
+}
+
+
+/* 7th Instruction */
+a[href^="http"]:link{
+    color:red;
+    background-color: transparent;
+    text-decoration:underline;
+}
+
+a[href^="http"]:visited{
+    color:green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+
+a[href^="http"]:hover{
+    color:blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a[href^="http"]:active{
+    color: yellow;
+    background-color: transparent;
+    text-decoration: dashed;
+}
+
+/* 8th Instruction */
+ul{
+    list-style-type: none;
+}
+
+/* 9th Instruction */
+li:first-of-type{
+    color: blue;
+}
+
+
+/* 10th Instruction */
+li:last-of-type{
+    color:red;
+}
+
+
+
+
+
+
+
+
+
