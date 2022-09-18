@@ -38,3 +38,54 @@ img{
     margin-right: 10px;
     margin-top: 10px;
 }
+
+/* 10th Instruction */
+section img{
+    border: #CC1C0D solid 2px;
+    border-radius: 40px;
+    margin-right: 20px;
+}
+
+/* 11th Instruction */
+.pricing div{
+    display: inline;
+    float: left;
+    width:24.1%;
+    border: #929CA4 solid 1px;
+    border-radius: 10px;
+    margin: 3px;
+    text-align: center;
+}
+
+.pricing img{
+    border:none;
+    float: none;
+    margin:10% auto;
+}
+
+.pricing hr{
+    height: 10px;    
+}
+
+.pricing #vprospect{
+    background-color: #CC1C0D;
+}
+
+.pricing #vconvert{
+    background-color: #37A4A4;
+}
+
+.pricing #vretain{
+    background-color: #685288;
+}
+
+.pricing #enterprise{
+    background-color: #000000;
+}
+
+div span{
+    float:none;
+    display:inline-block;
+    margin: 13% auto;
+}
+
